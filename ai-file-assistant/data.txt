@@ -1,0 +1,7 @@
+Product: Camera X100
+Price: 45000
+Features: 4K video, 24MP, WiFi, Bluetooth
+
+Product: Sony Tripod
+Price: 5000
+Features: Adjustable height, lightweight aluminum, 1.5kg max load
